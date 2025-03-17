@@ -1,7 +1,0 @@
-# Created by venv; see https://docs.python.org/3/library/venv.html
-
-
-git init
-git add .
-git commit -m "Initial commit"
-
