@@ -1,16 +1,12 @@
-.vercel
-# Created by venv; see https://docs.python.org/3/library/venv.html
-
-
-git init
-git add .
-git commit -m "Initial commit"
-
 # Ignore Python virtual environment
 venv/
 __pycache__
 *.pyc
 
-# Ignore other unnecessary files
+# Ignore unnecessary files
 *.log
 *.env
+
+# Ignore Vercel folder (this is auto-generated during deployment)
+.vercel/
+.vercel
