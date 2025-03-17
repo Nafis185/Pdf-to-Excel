@@ -7,6 +7,5 @@ __pycache__
 *.log
 *.env
 
-# Ignore Vercel folder (this is auto-generated during deployment)
+# Ignore Vercel folder (auto-generated during deployment)
 .vercel/
-.vercel
