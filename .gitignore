@@ -9,3 +9,4 @@ __pycache__
 
 # Ignore Vercel folder (auto-generated during deployment)
 .vercel/
+.vercel
